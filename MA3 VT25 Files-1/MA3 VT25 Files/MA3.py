@@ -129,3 +129,20 @@ def main():
 
 if __name__ == '__main__':
 	main()
+"""
+leha9404@atterbom:~/Prog-2/MA3 VT25 Files-1/MA3 VT25 Files$ python MA3.py
+Matplotlib is building the font cache; this may take a moment.
+1000 3.152
+10000 3.1344
+100000 3.14076
+Actual volume of 2 dimentional sphere = 3.141592653589793
+Actual volume of 11 dimentional sphere = 1.8841038793898994
+Ex3: Sequential time of 11 and 100000: 9.00072452519089
+Avg volume sequential: 1.923072
+Parallel time of 11 and 100000: 1.7028564400970936
+Avg volume parallel: 1.83296
+Ex4: Sequential time of 11 and 1000000: 9.680949669331312
+Parallel time of 11 and 1000000: 1.679851015098393
+Avg volume parallel: 1.875968
+
+"""
