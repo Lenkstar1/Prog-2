@@ -130,6 +130,7 @@ def main():
 if __name__ == '__main__':
 	main()
 """
+Output from running on Linux machines:
 leha9404@atterbom:~/Prog-2/MA3 VT25 Files-1/MA3 VT25 Files$ python MA3.py
 Matplotlib is building the font cache; this may take a moment.
 1000 3.152
