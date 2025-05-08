@@ -32,7 +32,7 @@ def approximate_pi(n): # Ex1
     
     plt.scatter(x_in, y_in, marker = "o", color = "red")
     plt.scatter(x_out, y_out, marker = "o", color = "blue")
-    plt.savefig(f"Pi approximation with {n} points")
+    plt.savefig(f"Prog-2\MA3 VT25 Files-1\MA3 VT25 Files\Pi approximation with {n} points")
 
     print(n, pi)
     return pi
